@@ -1,0 +1,8 @@
+/.ipynb_checkpoints
+
+*.dll
+*.xlsx
+*.ipynb
+*.py
+
+!poly_count.ipynb
